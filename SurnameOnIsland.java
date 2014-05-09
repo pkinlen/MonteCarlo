@@ -1,5 +1,7 @@
 import java.util.Random;
 
+// This class was written to find an answer to the question posed here:
+// http://abitofmaths.blogspot.hk/2014/04/surnames-on-island.html
 
 public class SurnameOnIsland implements Simulator{
      private double m_probs[];
