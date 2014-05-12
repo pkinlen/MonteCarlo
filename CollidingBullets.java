@@ -1,8 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-// The following class is written to solve a puzzle posted by IBM:
-//     http://domino.research.ibm.com/Comm/wwwr_ponder.nsf/Challenges/May2014.html
+// 
 //
 public class CollidingBullets  implements Simulator{
 
